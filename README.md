@@ -1,7 +1,7 @@
 <p align="center">
     <img 
         src="./src\img\tela do jogo.PNG"
-        style="width: 200px; height: 300px; display: block; margin: 0 auto;" 
+        style="width: 500px; height: 500px; display: block; margin: 0 auto;" 
     />
 </p>
 
